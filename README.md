@@ -136,3 +136,9 @@ cd your-repo-name
 
 # almaz
 eccomerce
+
+
+7/16/2025
+
+when i was uploading the code to beanstalk using github actions i got error all the errors were from the actual code
+not github or aws and i commented out the src/actions/index.ts file and a line on src/components/ProductGrid.tsx

@@ -14,7 +14,7 @@ import {
   SingleProduct,
   UserProfile,
 } from "./pages";
-import { checkoutAction, searchAction } from "./actions/index";
+//import { checkoutAction, searchAction } from "./actions/index";
 import { shopCategoryLoader } from "./pages/Shop";
 import { loader as orderHistoryLoader } from "./pages/OrderHistory";
 import { loader as singleOrderLoader } from "./pages/SingleOrderHistory";
@@ -48,11 +48,11 @@ const router = createBrowserRouter([
       {
         path: "checkout",
         element: <Checkout />,
-        action: checkoutAction,
+       // action: checkoutAction,
       },
       {
         path: "search",
-        action: searchAction,
+        //action: searchAction,
         element: <Search />,
       },
       {

@@ -14,17 +14,17 @@ const CategoriesSection = () => {
         />
         <CategoryItem
           categoryTitle="Luxury Collection"
-          image="luxury category 2.png"
+          image="luxury-category-2.png"
           link="luxury-collection"
         />
         <CategoryItem
           categoryTitle="Summer Edition"
-          image="luxury category 3.png"
+          image="luxury-category-3.png"
           link="summer-edition"
         />
         <CategoryItem
           categoryTitle="Unique Collection"
-          image="luxury category 4.png"
+          image="luxury-category-4.png"
           link="unique-collection"
         />
       </div>

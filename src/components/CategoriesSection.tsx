@@ -9,7 +9,7 @@ const CategoriesSection = () => {
       <div className="flex justify-between flex-wrap gap-y-10">
         <CategoryItem
           categoryTitle="Special Edition"
-          image="luxury category 1.png"
+          image="luxurycategory1.png"
           link="special-edition"
         />
         <CategoryItem
